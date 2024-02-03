@@ -27,5 +27,3 @@ npm install
 
 ### Development
 npm start
-
-![Alt text](image.png)
